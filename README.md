@@ -21,6 +21,8 @@
 - [AP® Biology - Part 2: Genetics](https://www.edx.org/course/ap-biology-part-2-genetics?index=product_value_experiment_a&queryID=d17f2612cc674d65f95cb37941586371&position=18)
 - [AP® Biology - Part 3: Evolution and Diversity](https://www.edx.org/course/ap-biology-part-3-evolution-and-diversity?index=product_value_experiment_a&queryID=d17f2612cc674d65f95cb37941586371&position=24)
 
+### Purdue University
+- [Biological Engineering: Cellular Design Principles](https://www.edx.org/course/biological-engineering-cellular-design-principles?index=product_value_experiment_a&queryID=452fb414b7d924ef4536e3afe5eb8dd5&position=21)
 
 ### The University of California, San Diego
 - [Introduction to Genomic Data Science](https://www.edx.org/course/introduction-to-genomic-data-science?index=product_value_experiment_a&queryID=7e3cae1e665062a33a3bee191c20b723&position=11)
