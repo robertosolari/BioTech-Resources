@@ -26,6 +26,10 @@
 
 ### The University of California, San Diego
 - [Introduction to Genomic Data Science](https://www.edx.org/course/introduction-to-genomic-data-science?index=product_value_experiment_a&queryID=7e3cae1e665062a33a3bee191c20b723&position=11)
+- [Bioinformatics Specialization](https://www.coursera.org/specializations/bioinformatics)
+
+### Johns Hopkins University
+- [Engineering Life: Synbio, Bioethics & Public Policy](https://www.coursera.org/learn/synbioethics)
 
 ## Books
 
