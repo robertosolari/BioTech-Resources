@@ -38,3 +38,6 @@
 - [A Crack in Creation: The New Power to Control Evolution](https://www.amazon.it/gp/product/1784702765/)
 - [The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race](https://www.amazon.it/gp/product/B08G1XNG7J/)
 - [DNA: The Story of the Genetic Revolution](https://www.amazon.it/gp/product/1784758043/)
+
+## Blogs, Tutorials, Youtube ecc...
+- [LabXchange](https://www.labxchange.org/)
