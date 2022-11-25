@@ -41,3 +41,4 @@
 
 ## Blogs, Tutorials, Youtube ecc...
 - [LabXchange](https://www.labxchange.org/)
+- [Codon](https://www.codonmag.com/) **Niko McCarty about synthetic biology**
