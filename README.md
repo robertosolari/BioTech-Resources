@@ -31,6 +31,9 @@
 ### Johns Hopkins University
 - [Engineering Life: Synbio, Bioethics & Public Policy](https://www.coursera.org/learn/synbioethics)
 
+### Stanford University
+- [Introduction to Bioengineering](https://introbioe.stanford.edu/lectures-interviews)
+
 ## Books
 
 - [How We Live and Why We Die: the secret lives of cells](https://www.amazon.co.uk/How-We-Live-Why-Die/dp/0571239129)
@@ -42,3 +45,10 @@
 ## Blogs, Tutorials, Youtube ecc...
 - [LabXchange](https://www.labxchange.org/)
 - [Codon](https://www.codonmag.com/) **Niko McCarty about synthetic biology**
+- [WHAT IS SYNTHETIC/ENGINEERING BIOLOGY?](https://ebrc.org/what-is-synbio/) **Engineering Biology Research Consortium**
+- [Synthetic Biology](https://www.ibiology.org/playlists/synthetic-biology/)**iBiology Video Series**
+- [How to Grow (Almost) Anything.](https://htgaa2022.notion.site/HTGAA-2022-d39e5560ad83483ab87d415f085b60c6)**course at MIT that teaches people — anywhere — how to engineer biology using robots**
+- [Basic lab methods](https://www.youtube.com/@csberg5856/videos)
+- [Biological Circuit Design](https://biocircuits.github.io/)
+- [Physical Biology of the Cell](http://www.rpgroup.caltech.edu/aph161/syllabus)
+
