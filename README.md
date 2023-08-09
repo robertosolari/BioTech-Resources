@@ -1,5 +1,7 @@
 # BioTech-Resources
 
+***If you want to contribute to the list, feel free to do a pull request***
+
 ## Courses
 ### MIT
 - [Principles of Synthetic Biology](https://www.edx.org/course/principles-of-synthetic-biology?index=product_value_experiment_a&queryID=e7fe68b36939b714ce7681c27effbf75&position=2)
