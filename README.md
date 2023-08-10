@@ -53,4 +53,5 @@
 - [Basic lab methods](https://www.youtube.com/@csberg5856/videos)
 - [Biological Circuit Design](https://biocircuits.github.io/)
 - [Physical Biology of the Cell](http://www.rpgroup.caltech.edu/aph161/syllabus)
+- [The Codon Guide to Synthetic Biology](https://www.readcodon.com/p/synbio-guide)
 
