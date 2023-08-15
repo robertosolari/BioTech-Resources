@@ -38,6 +38,9 @@
 ### Stanford University
 - [Introduction to Bioengineering](https://introbioe.stanford.edu/lectures-interviews)
 
+### Khan Academy
+- [Biology library](https://www.khanacademy.org/science/biology)
+
 ## Books
 
 - [How We Live and Why We Die: the secret lives of cells](https://www.amazon.co.uk/How-We-Live-Why-Die/dp/0571239129)
