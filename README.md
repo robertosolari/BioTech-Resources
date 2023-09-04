@@ -48,6 +48,8 @@
 - [A Crack in Creation: The New Power to Control Evolution](https://www.amazon.it/gp/product/1784702765/)
 - [The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race](https://www.amazon.it/gp/product/B08G1XNG7J/)
 - [DNA: The Story of the Genetic Revolution](https://www.amazon.it/gp/product/1784758043/)
+- [Building an unconventinal biotech](https://www.amazon.com/Building-Unconventional-Biotech-Blaise-Lippa/dp/0998203440)
+- [How to start a Life Science Company](https://www.amazon.com/Start-Life-Science-Company-Comprehensive/dp/0648142329/ref=sr_1_1?crid=7FNHD0KLPEMY&keywords=how+to+start+a+life+science+company&qid=1693829050&s=books&sprefix=how+to+start+a+life+science+compan%2Cstripbooks-intl-ship%2C267&sr=1-1)
 
 ## Blogs, Tutorials, Youtube ecc...
 - [LabXchange](https://www.labxchange.org/)
