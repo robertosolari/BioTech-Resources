@@ -63,4 +63,5 @@
 - [The Codon Guide to Synthetic Biology](https://www.readcodon.com/p/synbio-guide)
 - [Genengnews](https://www.genengnews.com/)
 - [Decoding Bio](https://www.decodingbio.com/)
+- [An Introduction to Quantum Biology - with Philip Ball](https://www.youtube.com/watch?v=bLeEsYDlXJk)
 
