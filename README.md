@@ -50,6 +50,7 @@
 - [DNA: The Story of the Genetic Revolution](https://www.amazon.it/gp/product/1784758043/)
 - [Building an unconventinal biotech](https://www.amazon.com/Building-Unconventional-Biotech-Blaise-Lippa/dp/0998203440)
 - [How to start a Life Science Company](https://www.amazon.com/Start-Life-Science-Company-Comprehensive/dp/0648142329/ref=sr_1_1?crid=7FNHD0KLPEMY&keywords=how+to+start+a+life+science+company&qid=1693829050&s=books&sprefix=how+to+start+a+life+science+compan%2Cstripbooks-intl-ship%2C267&sr=1-1)
+- [The Song of the Cell: The Story of Life](https://amzn.eu/d/5awo5ye)
 
 ## Blogs, Tutorials, Youtube ecc...
 - [LabXchange](https://www.labxchange.org/)
