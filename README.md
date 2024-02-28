@@ -67,3 +67,6 @@
 - [An Introduction to Quantum Biology - with Philip Ball](https://www.youtube.com/watch?v=bLeEsYDlXJk)
 - [Introduction to Engineering Biology: A Conceptual Framework for Teaching Synthetic Biology](https://pubs.acs.org/doi/10.1021/acssynbio.3c00194)
 
+## Organizations
+- [ European Synthetic Biology Society](https://www.eusynbios.org/)
+
